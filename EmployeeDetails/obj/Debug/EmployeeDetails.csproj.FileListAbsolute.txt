@@ -1,0 +1,12 @@
+c:\users\srika\onedrive\documents\visual studio 2015\Projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+c:\Users\srika\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csprojResolveAssemblyReference.cache
+c:\Users\srika\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+c:\Users\srika\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+c:\Users\srika\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+c:\Users\srika\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
+C:\Users\srika\Desktop\7to8.Net\Training\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\srika\Desktop\7to8.Net\Training\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\srika\Desktop\7to8.Net\Training\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
+C:\Users\srika\Desktop\7to8.Net\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\srika\Desktop\7to8.Net\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\srika\Desktop\7to8.Net\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
